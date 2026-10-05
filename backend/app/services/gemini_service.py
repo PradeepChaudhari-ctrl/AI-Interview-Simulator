@@ -213,7 +213,7 @@ class GeminiService:
         # Keep output smaller to reduce TPM usage.
         # ----------------------------------------------------
 
-        self.max_completion_tokens = 1200
+        self.max_completion_tokens = 2500
 
     # ========================================================
     # PUBLIC METHOD
